@@ -1,0 +1,442 @@
+#my-notes{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    width: 93%;
+    height: 1000px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+#navbar{
+    width: 95%;
+    height: 50px;
+    padding: 10px;
+    margin: 30px;
+    display: inline-flex;
+}
+
+#banner-1{
+    width: 4%;
+    height: 50px;
+    background-image: url(https://png.pngtree.com/png-clipart/20230330/original/pngtree-note-book-line-icon-png-image_9009933.png);
+    background-repeat: no-repeat;
+    background-size: 50px, 100%;
+}
+
+#big-text{
+    font-size: xx-large;
+    font-weight: bold;
+    margin: auto;
+}
+
+.search{
+    width: 220px;
+    height: 35px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+#img{
+    width: 4%;
+    height: 50px;
+    background-image: url(https://png.pngtree.com/png-clipart/20250530/original/pngtree-cute-anime-girl-portrait-png-image_21094454.png);
+    background-repeat: no-repeat;
+    background-size: 50px;
+}
+
+.banner-2{
+    width: 4%;
+    height: 50px;
+    background-image: url(https://icon-library.com/images/navigation-bar-icon/navigation-bar-icon-21.jpg);
+    background-repeat: no-repeat;
+    background-size: 50px;
+}
+
+.boxes{
+    width: 100%;
+    height: 100%;
+    margin-left: 5px;
+    display: inline-flex;
+}
+
+.box-1{
+    width: 18%;
+    text-align: center;
+}
+
+.add-note-icon{
+    width: 40%;
+    height: 25px;
+    padding: 5px;
+    margin: 30px 0 0 50px ;
+    background-image: url(https://static.thenounproject.com/png/3720828-200.png);
+    background-repeat: no-repeat;
+    background-size: 26px;
+}
+
+.add-note-icon p{
+    margin: 0 0 0 10px;
+}
+
+#circle-1{
+    width: 18px;
+    height: 18px;
+    margin: 5px 0 10px 80px;
+    background: rgb(100, 100, 200);
+    border-radius: 200px;
+}
+
+#circle-2{
+    width: 18px;
+    height: 18px;
+    margin: 0 0 10px 80px;
+    background: rgb(200, 100, 100);
+    border-radius: 200px;
+}
+
+#circle-3{
+    width: 18px;
+    height: 18px;
+    margin: 0 0 20px 80px;
+    background: rgb(200, 100, 200);
+    border-radius: 200px;
+}
+
+.calender-icon{
+    width: 12%;
+    height: 25px;
+    padding: 5px;
+    margin-left: 50px;
+    background-image: url(https://icons.veryicon.com/png/o/miscellaneous/face-monochrome-icon/calendar-249.png);
+    background-repeat: no-repeat;
+    background-size: 26px;
+}
+
+.calender-icon p{
+    margin: 0 0 0 25px;
+}
+
+.archive-icon{
+    width: 12%;
+    height: 25px;
+    padding: 5px;
+    margin-left: 50px;
+    background-image: url(https://cdn-icons-png.flaticon.com/512/2001/2001114.png);
+    background-repeat: no-repeat;
+    background-size: 23px;
+}
+
+.archive-icon p{
+    margin: 0 0 0 25px;
+}
+
+.trash-icon{
+    width: 12%;
+    height: 25px;
+    padding: 5px;
+    margin-left: 50px;
+    background-image: url(https://www.iconpacks.net/icons/1/free-trash-icon-347-thumb.png);
+    background-repeat: no-repeat;
+    background-size: 23px;
+}
+
+.trash-icon p{
+    margin: 0 0 0 25px;
+}
+
+#text-design p{
+    width: 70%;
+    margin: auto;
+    margin-top: 200px;
+}
+
+#img-1{
+    width: 90%;
+    height: 230px;
+    margin: auto;
+    background-image: url(https://png.pngtree.com/png-vector/20230809/ourmid/pngtree-girl-wearing-glasses-working-on-computer-animated-art-cute-vector-png-image_6838957.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+}
+
+#img-1 button{
+    width: 60%;
+    height: 35px;
+    margin-top: 250px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(118, 0, 73);
+    color: white;
+}
+
+.box-2{
+    height: 845px;
+    padding: 25px 73px 0 50px;
+    background-color: rgb(236, 229, 249);
+    border-radius: 20px 0 20px 0;
+}
+
+#history-1{
+    display: inline-flex;
+}
+
+#history-1 a{
+    margin: 0 50px 20px 0;
+    text-decoration: none;
+    color: gray;
+}
+
+#history-1 a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+#folder{
+    display: flex;
+}
+
+.movie-review{
+    width: 250px;
+    height: 180px;
+    padding-left: 25px;
+    margin-right: 30px;
+    border-radius: 20px;
+    background-color: rgba(205, 205, 250, 0.886);
+}
+
+#img-folder{
+    width: 70px;
+    height: 70px;
+    margin-top: 10px;
+    background-image: url(https://pngfre.com/wp-content/uploads/Folder-1.png);
+    background-repeat: no-repeat;
+    background-size: 70px;
+}
+
+#img-dote{
+    width: 30px;
+    height: 30px;
+    margin-left: 200px;
+    background-image: url(https://cdn-icons-png.flaticon.com/512/0/859.png);
+    background-repeat: no-repeat;
+    background-size: 30px;
+}
+
+.movie-review p{
+    font-size: small;
+    font-weight: bold;
+    color: gray;
+}
+
+.class-notes{
+    width: 250px;
+    height: 180px;
+    padding-left: 25px;
+    margin-right: 30px;
+    border-radius: 20px;
+    background-color: rgba(250, 190, 190, 0.804);
+}
+
+.class-notes p{
+    font-size: small;
+    font-weight: bold;
+    color: gray;
+}
+
+.book-list{
+    width: 250px;
+    height: 180px;
+    padding-left: 25px;
+    margin-right: 30px;
+    border-radius: 20px;
+    background-color: rgba(170, 250, 150, 0.612);
+}
+
+.book-list p{
+    font-size: small;
+    font-weight: bold;
+    color: gray;
+}
+
+.new-folder{
+    margin: auto;
+}
+
+#img-new-folder{
+    width: 40px;
+    height: 40px;
+    margin: auto;
+    background-image: url(https://pngfre.com/wp-content/uploads/Folder-1.png);
+    background-repeat: no-repeat;
+    background-size: 40px;
+}
+
+.new-folder button{
+    color: gray;
+    border: 2px dashed;
+    border-radius: 10px;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(236, 229, 249);
+}
+
+.new-folder button:hover{
+    border: 2px solid;
+    color: gray;
+}
+
+.my-new-notes{
+    margin-top: 50px;
+}
+
+#history-2{
+    display: inline-flex;
+}
+
+#history-2 a{
+    margin: 0 50px 20px 0;
+    text-decoration: none;
+    color: gray;
+}
+
+#history-2 a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+#img-left{
+    margin: 0 0 20px 360px;
+    color: gray;
+}
+
+#history-2 p{
+    margin: 3px 0 0 10px;
+    color: gray;
+}
+
+#img-right{
+    margin: 0 0 20px 10px;
+    color: gray;
+}
+
+#notes{
+    display: flex;
+}
+
+.note-1{
+    width: 250px;
+    height: 360px;
+    padding-left: 25px;
+    margin-right: 30px;
+    border-radius: 20px;
+    background-color: rgb(169, 169, 251);
+}
+
+.note-1 p:first-of-type{
+    font-size: small;
+    font-weight: bold;
+    color: gray;
+}
+
+.header-and-icon{
+    width: 225px;
+    display: flex;
+}
+
+#img-note{
+    width: 30px;
+    height: 30px;
+    margin: 15px 0 0 70px ;
+    background-image: url(https://images.vexels.com/media/users/3/204881/isolated/preview/efdc3831d94459b2e871b227643512ee-notes-pen-stroke-icon.png);
+    background-repeat: no-repeat;
+    background-size: 30px;
+}
+
+hr{
+    width: 225px;
+    margin-right: 40px;
+}
+
+.note-1 p{
+    color: gray;
+}
+
+.icon-hour-day{
+    display: flex;
+}
+
+#img-hour{
+    width: 20px;
+    height: 20px;
+    margin: 10px 5px 0 0;
+    background-image: url(https://cdn-icons-png.flaticon.com/512/88/88036.png);
+    background-repeat: no-repeat;
+    background-size: 20px;
+}
+
+.note-2{
+    width: 250px;
+    height: 360px;
+    padding-left: 25px;
+    margin-right: 30px;
+    border-radius: 20px;
+    background-color: rgb(250, 170, 170);
+}
+
+.note-2 p:first-of-type{
+    font-size: small;
+    font-weight: bold;
+    color: gray;
+}
+
+.note-2 p{
+    color: gray;
+}
+
+.note-3{
+    width: 250px;
+    height: 360px;
+    padding-left: 25px;
+    margin-right: 30px;
+    border-radius: 20px;
+    background-color: rgb(160, 250, 140);
+}
+
+.note-3 p:first-of-type{
+    font-size: small;
+    font-weight: bold;
+    color: gray;
+}
+
+.note-3 p{
+    color: gray;
+}
+
+.new-note{
+    margin: auto;
+}
+
+#img-note-1{
+    width: 40px;
+    height: 40px;
+    margin: auto;
+    background-image: url(https://images.vexels.com/media/users/3/204881/isolated/preview/efdc3831d94459b2e871b227643512ee-notes-pen-stroke-icon.png);
+    background-repeat: no-repeat;
+    background-size: 40px;
+}
+
+.new-note button{
+    color: gray;
+    border: 2px dashed;
+    border-radius: 10px;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(236, 229, 249);
+}
+
+.new-note button:hover{
+    border: 2px solid;
+    color: gray;
+}
